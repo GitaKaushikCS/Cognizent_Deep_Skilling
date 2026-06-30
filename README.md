@@ -1,2 +1,2 @@
-#Cognigent_Deep_Skilling
+#Cognizant_Deep_Skilling
 
